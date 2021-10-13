@@ -1,0 +1,28 @@
+/* global */
+
+i{
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+    padding: 10px;
+}
+*{
+  font-family: 'Raleway', sans-serif;;
+}
+.btn{
+    background-color:rgb(255, 123, 145)!important;
+    border: none!important;
+}
+/* navbar */
+.navbar{
+    background-color: bisque;
+}
+/* header */
+/* card */
+.card{
+    width: 80%!important;
+}
+/* footer */
+footer{
+    background-color: bisque;
+}
